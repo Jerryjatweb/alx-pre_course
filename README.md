@@ -1,1 +1,1 @@
-My first readme, its, been interesting.
+My first readme, it's been an interesting experience.
